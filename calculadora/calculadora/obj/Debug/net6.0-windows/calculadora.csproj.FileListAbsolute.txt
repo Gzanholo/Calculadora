@@ -1,0 +1,6 @@
+C:\Users\aluno.UNIPSOR2\Source\Repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.Form1.resources
+C:\Users\aluno.UNIPSOR2\Source\Repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.csproj.GenerateResource.cache
+C:\Users\aluno.UNIPSOR2\Source\Repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.UNIPSOR2\Source\Repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\aluno.UNIPSOR2\Source\Repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.AssemblyInfo.cs
+C:\Users\aluno.UNIPSOR2\Source\Repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.csproj.CoreCompileInputs.cache
